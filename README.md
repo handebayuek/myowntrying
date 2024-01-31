@@ -3,7 +3,5 @@
 ## I am trying to understand. 
 
 
-- I added something because why not 
-<br>
-    [x] List
-    [x] List 2
+- I added something 
+
